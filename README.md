@@ -1,2 +1,2 @@
 # repo
-study
+Repo exercise test
